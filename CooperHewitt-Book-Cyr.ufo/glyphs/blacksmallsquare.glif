@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blacksmallsquare" format="2">
+	<advance width="680"/>
+	<unicode hex="25AA"/>
+	<note>
+		blacksmallsquare
+  </note>
+	<outline>
+		<contour>
+			<point x="70" y="0" type="line"/>
+			<point x="600" y="0" type="line"/>
+			<point x="600" y="530" type="line"/>
+			<point x="70" y="530" type="line"/>
+		</contour>
+	</outline>
+</glyph>

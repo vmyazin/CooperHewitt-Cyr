@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blacksquare" format="2">
+	<advance width="920"/>
+	<unicode hex="25A0"/>
+	<unicode hex="E740"/>
+	<note>
+		blacksquare
+  </note>
+	<outline>
+		<contour>
+			<point x="70" y="0" type="line"/>
+			<point x="850" y="0" type="line"/>
+			<point x="850" y="780" type="line"/>
+			<point x="70" y="780" type="line"/>
+		</contour>
+	</outline>
+</glyph>
