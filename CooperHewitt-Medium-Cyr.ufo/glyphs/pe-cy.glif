@@ -3,5 +3,29 @@
   <advance width="600"/>
   <unicode hex="043F"/>
   <outline>
+    <contour>
+      <point x="89" y="530" type="line"/>
+      <point x="89" y="2" type="line"/>
+      <point x="186" y="2" type="line"/>
+      <point x="186" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="530" type="line"/>
+      <point x="407" y="2" type="line"/>
+      <point x="504" y="2" type="line"/>
+      <point x="504" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="530" type="line"/>
+      <point x="144" y="439" type="line"/>
+      <point x="447" y="439" type="line"/>
+      <point x="447" y="530" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-27 23:15:55 +0000</string>
+    </dict>
+  </lib>
 </glyph>
