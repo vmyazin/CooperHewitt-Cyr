@@ -5,6 +5,10 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>/pe-cy</string>
+		<string>/en-cy</string>
+		<string>H</string>
+		<string>/ge-cy</string>
+		<string>/te-cy</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
