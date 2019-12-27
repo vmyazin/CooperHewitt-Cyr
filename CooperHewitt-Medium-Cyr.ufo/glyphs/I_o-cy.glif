@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Io-cy" format="1">
+  <advance width="600"/>
+  <unicode hex="0401"/>
+  <outline>
+    <contour>
+      <point x="268" y="936" type="line"/>
+      <point x="169" y="936" type="line"/>
+      <point x="169" y="854" type="line"/>
+      <point x="268" y="854" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="936" type="line"/>
+      <point x="332" y="936" type="line"/>
+      <point x="332" y="854" type="line"/>
+      <point x="431" y="854" type="line"/>
+    </contour>
+    <contour>
+      <point x="67" y="780" type="line"/>
+      <point x="67" y="0" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="517" y="92" type="line"/>
+      <point x="171" y="92" type="line"/>
+      <point x="171" y="352" type="line"/>
+      <point x="467" y="352" type="line"/>
+      <point x="467" y="444" type="line"/>
+      <point x="171" y="444" type="line"/>
+      <point x="171" y="688" type="line"/>
+      <point x="517" y="688" type="line"/>
+      <point x="517" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-12 19:38:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>
