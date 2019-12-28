@@ -3,5 +3,37 @@
   <advance width="600"/>
   <unicode hex="043C"/>
   <outline>
+    <contour>
+      <point x="47" y="530" type="line"/>
+      <point x="47" y="1" type="line"/>
+      <point x="144" y="1" type="line"/>
+      <point x="144" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="461" y="530" type="line"/>
+      <point x="461" y="1" type="line"/>
+      <point x="558" y="1" type="line"/>
+      <point x="558" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="530" type="line"/>
+      <point x="97" y="530" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="530" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="509" y="530" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-28 06:26:24 +0000</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -924,6 +924,8 @@
 	<string>pdotaccent.glif</string>
 	<key>pe-cy</key>
 	<string>pe-cy.glif</string>
+	<key>pe-cy.001</key>
+	<string>pe-cy.001.glif</string>
 	<key>pe-cy.loclBGR</key>
 	<string>pe-cy.loclB_G_R_.glif</string>
 	<key>percent</key>

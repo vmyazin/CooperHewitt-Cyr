@@ -4,25 +4,18 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/pe-cy</string>
-		<string>/en-cy</string>
-		<string>H</string>
 		<string>/ge-cy</string>
-		<string>/De-cy A/De-cy/A-cy</string>
-		<string>/Zhe-cy  /Ka-cy/O-cy/Zhe-cy/U-cy/Ha-cy</string>
-		<string>/De-cy</string>
-		<string>`/iegrave-cy e</string>
+		<string>/De-cy/a-cy/en-cy/ka-cy/a-cy/a-cy</string>
 		<string>/iegrave-cy</string>
-		<string>/Ereversed-cy 3</string>
-		<string>/Be-cy</string>
-		<string>/Sha-cy</string>
-		<string>/Shcha-cy</string>
-		<string>/io-cy</string>
-		<string>/El-cy</string>
-		<string>/Tse-cy</string>
-		<string>/iigrave-cy.loclBGR</string>
+		<string>/Pe-cy/hardsign-cy/ie-cy/er-cy  /endash  /pe-cy/o-cy/tse-cy  </string>
+		<string>/er-cy</string>
+		<string>/pe-cy</string>
+		<string>/Ie-cy</string>
+		<string>/ef-cy</string>
+		<string>/El-cy/Pe-cy</string>
 		<string>/Hardsign-cy</string>
-		<string>/ka-cy</string>
+		<string>/che-cy</string>
+		<string>/pe-cy.001</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -1238,6 +1231,7 @@
 		<string>ia-cy</string>
 		<string>yat-cy</string>
 		<string>yusbig-cy</string>
+		<string>pe-cy.001</string>
 		<string>ve-cy.loclBGR</string>
 		<string>ge-cy.loclBGR</string>
 		<string>de-cy.loclBGR</string>

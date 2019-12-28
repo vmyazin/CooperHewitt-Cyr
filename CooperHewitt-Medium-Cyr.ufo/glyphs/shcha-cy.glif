@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shcha-cy" format="1">
-  <advance width="600"/>
+  <advance width="850"/>
   <unicode hex="0449"/>
   <outline>
+    <contour>
+      <point x="60" y="1" type="line"/>
+      <point x="157" y="1" type="line"/>
+      <point x="157" y="530" type="line"/>
+      <point x="60" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="622" y="1" type="line"/>
+      <point x="719" y="1" type="line"/>
+      <point x="719" y="530" type="line"/>
+      <point x="622" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="1" type="line"/>
+      <point x="632" y="1" type="line"/>
+      <point x="632" y="93" type="line"/>
+      <point x="145" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="1" type="line"/>
+      <point x="437" y="1" type="line"/>
+      <point x="437" y="530" type="line"/>
+      <point x="340" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="696" y="105" type="line"/>
+      <point x="696" y="-106" type="line"/>
+      <point x="790" y="-106" type="line"/>
+      <point x="790" y="105" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-28 06:52:33 +0000</string>
+    </dict>
+  </lib>
 </glyph>

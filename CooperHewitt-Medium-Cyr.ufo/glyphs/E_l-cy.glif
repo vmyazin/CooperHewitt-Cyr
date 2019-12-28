@@ -4,40 +4,36 @@
   <unicode hex="041B"/>
   <outline>
     <contour>
-      <point x="20" y="80" type="curve"/>
-      <point x="20" y="-12" type="line"/>
-      <point x="21" y="-12"/>
-      <point x="21" y="-12"/>
-      <point x="22" y="-12" type="curve" smooth="yes"/>
-      <point x="204" y="-12"/>
-      <point x="283" y="62"/>
-      <point x="283" y="243" type="curve" smooth="yes"/>
-      <point x="283" y="780" type="line"/>
-      <point x="179" y="780" type="line"/>
-      <point x="179" y="248" type="line" smooth="yes"/>
-      <point x="179" y="124"/>
-      <point x="131" y="80"/>
-      <point x="22" y="80" type="curve" smooth="yes"/>
-      <point x="21" y="80"/>
-      <point x="21" y="80"/>
+      <point x="-53" y="80" type="curve"/>
+      <point x="-53" y="-12" type="line"/>
+      <point x="-52" y="-12"/>
+      <point x="-52" y="-12"/>
+      <point x="-51" y="-12" type="curve" smooth="yes"/>
+      <point x="105" y="-12"/>
+      <point x="176" y="135"/>
+      <point x="186" y="320" type="curve" smooth="yes"/>
+      <point x="210" y="780" type="line"/>
+      <point x="106" y="780" type="line"/>
+      <point x="86" y="404" type="line" smooth="yes"/>
+      <point x="77" y="229"/>
+      <point x="58" y="80"/>
+      <point x="-51" y="80" type="curve" smooth="yes"/>
+      <point x="-52" y="80"/>
+      <point x="-52" y="80"/>
     </contour>
     <contour>
-      <point x="42" y="-12" type="line"/>
-      <point x="42" y="80" type="line"/>
-    </contour>
-    <contour>
-      <point x="282" y="780" type="line"/>
-      <point x="282" y="676" type="line"/>
-      <point x="466" y="676" type="line"/>
-      <point x="466" y="0" type="line"/>
-      <point x="558" y="0" type="line"/>
-      <point x="558" y="780" type="line"/>
+      <point x="209" y="780" type="line"/>
+      <point x="174" y="676" type="line"/>
+      <point x="460" y="676" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="552" y="0" type="line"/>
+      <point x="552" y="780" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-06-13 12:01:27 +0000</string>
+      <string>2019-12-28 06:19:20 +0000</string>
     </dict>
   </lib>
 </glyph>

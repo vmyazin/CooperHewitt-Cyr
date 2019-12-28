@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ka-cy" format="1">
-  <advance width="600"/>
+  <advance width="530"/>
   <unicode hex="043A"/>
   <outline>
     <contour>
@@ -21,7 +21,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-12-28 03:06:58 +0000</string>
+      <string>2019-12-28 06:07:27 +0000</string>
     </dict>
   </lib>
 </glyph>
