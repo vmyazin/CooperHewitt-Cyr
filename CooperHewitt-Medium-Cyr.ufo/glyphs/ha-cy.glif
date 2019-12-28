@@ -3,6 +3,25 @@
   <advance width="510"/>
   <unicode hex="0445"/>
   <outline>
-    <component base="x"/>
+    <contour>
+      <point x="21" y="530" type="line"/>
+      <point x="175" y="270" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="255" y="214" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="334" y="270" type="line"/>
+      <point x="489" y="530" type="line"/>
+      <point x="372" y="530" type="line"/>
+      <point x="255" y="326" type="line"/>
+      <point x="138" y="530" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-28 20:54:31 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -4,7 +4,7 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/ge-cy</string>
+		<string>v=/ge-cy</string>
 		<string>/De-cy/a-cy/en-cy/ka-cy/a-cy/a-cy</string>
 		<string>/iegrave-cy</string>
 		<string>/Ve-cy  «/El-cy/ie-cy/ve-cy/o-cy » </string>
@@ -16,7 +16,8 @@
 		<string>/Hardsign-cy</string>
 		<string>/pe-cy.001</string>
 		<string>/ve-cy</string>
-		<string>/en-cy/ii-cy/ge-cy/o-cy/a-cy  </string>
+		<string>/En-cy/ii-cy/ge-cy/ie-cy/er-cy/ii-cy/ia-cy 
+/ereversed-cy/te-cy/o-cy  /ka-cy/er-cy/u-cy/te-cy/o-cy</string>
 		<string>/ii-cy/em-cy</string>
 		<string>/El-cy</string>
 		<string>/ia-cy/ve-cy</string>
@@ -31,6 +32,11 @@
 		<string>/ereversed-cy</string>
 		<string>/o-cy</string>
 		<string>/be-cy/u-cy/be-cy/a-cy  /es-cy/ie-cy/ka-cy/ii-cy  </string>
+		<string>/be-cy</string>
+		<string>/zhe-cy</string>
+		<string>/ha-cy</string>
+		<string>/De-cy</string>
+		<string>/de-cy</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
