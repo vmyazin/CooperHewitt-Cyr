@@ -38,16 +38,16 @@
       <point x="476" y="410" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="308" y="348" type="line"/>
-      <point x="538" y="348" type="line"/>
-      <point x="538" y="438" type="line"/>
-      <point x="308" y="438" type="line"/>
+      <point x="242" y="348" type="line"/>
+      <point x="574" y="348" type="line"/>
+      <point x="574" y="438" type="line"/>
+      <point x="242" y="438" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-06-13 12:03:25 +0000</string>
+      <string>2019-12-28 02:42:07 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -8,11 +8,21 @@
 		<string>/en-cy</string>
 		<string>H</string>
 		<string>/ge-cy</string>
-		<string>/te-cy</string>
 		<string>/De-cy A/De-cy/A-cy</string>
-		<string>/De-cy.loclBGR</string>
 		<string>/Zhe-cy  /Ka-cy/O-cy/Zhe-cy/U-cy/Ha-cy</string>
 		<string>/De-cy</string>
+		<string>`/iegrave-cy e</string>
+		<string>/iegrave-cy</string>
+		<string>/Ereversed-cy 3</string>
+		<string>/Be-cy</string>
+		<string>/Sha-cy</string>
+		<string>/Shcha-cy</string>
+		<string>/io-cy</string>
+		<string>/El-cy</string>
+		<string>/Tse-cy</string>
+		<string>/iigrave-cy.loclBGR</string>
+		<string>/Hardsign-cy</string>
+		<string>/ka-cy</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

@@ -921,6 +921,11 @@
 		<key>v</key>
 		<integer>-12</integer>
 	</dict>
+	<key>iegrave-cy</key>
+	<dict>
+		<key>@MMK_R_e</key>
+		<integer>-60</integer>
+	</dict>
 	<key>space</key>
 	<dict>
 		<key>@MMK_R_A</key>
