@@ -9,6 +9,10 @@
 		<string>H</string>
 		<string>/ge-cy</string>
 		<string>/te-cy</string>
+		<string>/De-cy A/De-cy/A-cy</string>
+		<string>/De-cy.loclBGR</string>
+		<string>/Zhe-cy  /Ka-cy/O-cy/Zhe-cy/U-cy/Ha-cy</string>
+		<string>/De-cy</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
