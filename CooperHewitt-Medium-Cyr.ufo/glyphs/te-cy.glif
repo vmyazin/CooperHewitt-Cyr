@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="te-cy" format="1">
-  <advance width="600"/>
+  <advance width="527"/>
   <unicode hex="0442"/>
   <outline>
     <contour>
-      <point x="252" y="530" type="line"/>
-      <point x="252" y="2" type="line"/>
-      <point x="349" y="2" type="line"/>
-      <point x="349" y="530" type="line"/>
+      <point x="212" y="530" type="line"/>
+      <point x="212" y="2" type="line"/>
+      <point x="309" y="2" type="line"/>
+      <point x="309" y="530" type="line"/>
     </contour>
     <contour>
-      <point x="90" y="530" type="line"/>
-      <point x="90" y="438" type="line"/>
-      <point x="511" y="438" type="line"/>
-      <point x="511" y="530" type="line"/>
+      <point x="50" y="530" type="line"/>
+      <point x="50" y="438" type="line"/>
+      <point x="471" y="438" type="line"/>
+      <point x="471" y="530" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-12-27 23:41:39 +0000</string>
+      <string>2019-12-28 07:17:46 +0000</string>
     </dict>
   </lib>
 </glyph>

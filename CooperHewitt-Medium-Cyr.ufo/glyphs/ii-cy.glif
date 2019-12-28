@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ii-cy" format="1">
-  <advance width="600"/>
+  <advance width="603"/>
   <unicode hex="0438"/>
   <outline>
+    <contour>
+      <point x="65" y="530" type="line"/>
+      <point x="65" y="1" type="line"/>
+      <point x="165" y="1" type="line"/>
+      <point x="165" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="530" type="line"/>
+      <point x="437" y="1" type="line"/>
+      <point x="537" y="1" type="line"/>
+      <point x="537" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="127" type="line"/>
+      <point x="187" y="1" type="line"/>
+      <point x="437" y="404" type="line"/>
+      <point x="415" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="415" y="530" type="line"/>
+      <point x="415" y="404" type="line"/>
+      <point x="537" y="404" type="line"/>
+      <point x="537" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="127" type="line"/>
+      <point x="65" y="1" type="line"/>
+      <point x="187" y="1" type="line"/>
+      <point x="187" y="127" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-28 20:01:07 +0000</string>
+    </dict>
+  </lib>
 </glyph>

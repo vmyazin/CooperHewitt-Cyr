@@ -3,13 +3,24 @@
   <advance width="600"/>
   <unicode hex="0451"/>
   <outline>
+    <contour>
+      <point x="229" y="730" type="line"/>
+      <point x="133" y="730" type="line"/>
+      <point x="133" y="615" type="line"/>
+      <point x="229" y="615" type="line"/>
+    </contour>
+    <contour>
+      <point x="413" y="731" type="line"/>
+      <point x="317" y="731" type="line"/>
+      <point x="317" y="616" type="line"/>
+      <point x="413" y="616" type="line"/>
+    </contour>
     <component base="ie-cy"/>
-    <component base="dieresis" xOffset="33" yOffset="-3"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-12-28 02:49:00 +0000</string>
+      <string>2019-12-28 20:22:23 +0000</string>
     </dict>
   </lib>
 </glyph>

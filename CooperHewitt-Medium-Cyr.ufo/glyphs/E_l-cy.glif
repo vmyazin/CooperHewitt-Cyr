@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="El-cy" format="1">
-  <advance width="599"/>
+  <advance width="592"/>
   <unicode hex="041B"/>
   <outline>
     <contour>
@@ -24,16 +24,16 @@
     <contour>
       <point x="209" y="780" type="line"/>
       <point x="174" y="676" type="line"/>
-      <point x="460" y="676" type="line"/>
-      <point x="460" y="0" type="line"/>
-      <point x="552" y="0" type="line"/>
-      <point x="552" y="780" type="line"/>
+      <point x="433" y="676" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="525" y="780" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-12-28 06:19:20 +0000</string>
+      <string>2019-12-28 20:03:54 +0000</string>
     </dict>
   </lib>
 </glyph>
