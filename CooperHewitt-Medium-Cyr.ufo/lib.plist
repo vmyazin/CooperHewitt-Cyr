@@ -14,6 +14,22 @@
 		<string>/ge-cy</string>
 		<string>/gheupturn-cy</string>
 		<string>/shcha-cy</string>
+		<string>/ereversed-cy</string>
+		<string>/e-cy</string>
+		<string>/Ge-cy</string>
+		<string>/El-cy</string>
+		<string>j</string>
+		<string>A</string>
+		<string>/el-cy</string>
+		<string>/Pe-cy</string>
+		<string>/Sha-cy</string>
+		<string>/Shcha-cy</string>
+		<string>/Iigrave-cy</string>
+		<string>/Lacute</string>
+		<string>/Yeru-cy</string>
+		<string>/De-cy</string>
+		<string>/Be-cy</string>
+		<string>`/ii-cy.loclBGR/iigrave-cy.loclBGR</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

@@ -2,7 +2,12 @@
 <glyph name="iigrave-cy.loclBGR" format="1">
   <advance width="600"/>
   <outline>
-    <component base="ii-cy.loclBGR"/>
     <component base="grave"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-29 10:53:45 +0000</string>
+    </dict>
+  </lib>
 </glyph>
