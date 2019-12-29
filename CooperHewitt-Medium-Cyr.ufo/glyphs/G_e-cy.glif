@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ge-cy" format="1">
-  <advance width="526"/>
+  <advance width="519"/>
   <unicode hex="0413"/>
   <outline>
     <contour>
@@ -15,7 +15,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-12-29 04:06:47 +0000</string>
+      <string>2019-12-29 18:13:50 +0000</string>
     </dict>
   </lib>
 </glyph>

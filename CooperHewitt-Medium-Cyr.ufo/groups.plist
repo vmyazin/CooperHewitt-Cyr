@@ -70,6 +70,11 @@
 		<string>Ldot</string>
 		<string>Lslash</string>
 	</array>
+	<key>@MMK_L_MZ</key>
+	<array>
+		<string>Softsign-cy</string>
+		<string>Hardsign-cy</string>
+	</array>
 	<key>@MMK_L_O</key>
 	<array>
 		<string>O</string>
@@ -228,6 +233,11 @@
 		<string>m</string>
 		<string>mdotaccent</string>
 	</array>
+	<key>@MMK_L_mz</key>
+	<array>
+		<string>softsign-cy</string>
+		<string>hardsign-cy</string>
+	</array>
 	<key>@MMK_L_o</key>
 	<array>
 		<string>o</string>
@@ -264,6 +274,27 @@
 		<string>racute</string>
 		<string>rcommaaccent</string>
 		<string>rcaron</string>
+	</array>
+	<key>@MMK_L_ru-G</key>
+	<array>
+		<string>Ge-cy</string>
+		<string>Gheupturn-cy</string>
+		<string>Te-cy</string>
+		<string>U-cy</string>
+	</array>
+	<key>@MMK_L_ru-R</key>
+	<array>
+		<string>Er-cy</string>
+	</array>
+	<key>@MMK_L_ru-g</key>
+	<array>
+		<string>ge-cy</string>
+		<string>gheupturn-cy</string>
+		<string>u-cy</string>
+	</array>
+	<key>@MMK_L_ru-t</key>
+	<array>
+		<string>te-cy</string>
 	</array>
 	<key>@MMK_L_s</key>
 	<array>
@@ -529,6 +560,24 @@
 		<string>racute</string>
 		<string>rcommaaccent</string>
 		<string>rcaron</string>
+	</array>
+	<key>@MMK_R_ru-L</key>
+	<array>
+		<string>De-cy</string>
+		<string>El-cy</string>
+	</array>
+	<key>@MMK_R_ru-T</key>
+	<array>
+		<string>Te-cy</string>
+	</array>
+	<key>@MMK_R_ru-l</key>
+	<array>
+		<string>de-cy</string>
+		<string>el-cy</string>
+	</array>
+	<key>@MMK_R_ru-t</key>
+	<array>
+		<string>te-cy</string>
 	</array>
 	<key>@MMK_R_s</key>
 	<array>

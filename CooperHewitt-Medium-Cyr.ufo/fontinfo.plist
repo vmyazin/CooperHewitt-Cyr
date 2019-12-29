@@ -15,7 +15,7 @@
 	<key>note</key>
 	<string>Cyrillic support by Vasily Myazin and Dmitri Zdorov (2019)</string>
 	<key>openTypeHeadCreated</key>
-	<string>2019/12/29 14:00:38</string>
+	<string>2019/12/29 21:14:33</string>
 	<key>openTypeHeadFlags</key>
 	<array>
 		<integer>0</integer>
@@ -168,7 +168,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>530</integer>
 </dict>

@@ -225,6 +225,11 @@
 		<key>v</key>
 		<integer>-84</integer>
 	</dict>
+	<key>@MMK_L_MZ</key>
+	<dict>
+		<key>@MMK_R_ru-T</key>
+		<integer>-60</integer>
+	</dict>
 	<key>@MMK_L_O</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -648,6 +653,11 @@
 		<key>v</key>
 		<integer>-6</integer>
 	</dict>
+	<key>@MMK_L_mz</key>
+	<dict>
+		<key>@MMK_R_ru-t</key>
+		<integer>-60</integer>
+	</dict>
 	<key>@MMK_L_o</key>
 	<dict>
 		<key>@MMK_R_f</key>
@@ -722,6 +732,27 @@
 		<integer>-24</integer>
 		<key>space</key>
 		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_ru-G</key>
+	<dict>
+		<key>@MMK_R_ru-L</key>
+		<integer>-40</integer>
+		<key>@MMK_R_ru-l</key>
+		<integer>-60</integer>
+		<key>o-cy</key>
+		<integer>-30</integer>
+		<key>pe-cy</key>
+		<integer>-50</integer>
+	</dict>
+	<key>@MMK_L_ru-R</key>
+	<dict>
+		<key>@MMK_R_ru-L</key>
+		<integer>-30</integer>
+	</dict>
+	<key>@MMK_L_ru-g</key>
+	<dict>
+		<key>el-cy</key>
+		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_s</key>
 	<dict>
@@ -907,6 +938,13 @@
 		<integer>-48</integer>
 		<key>x</key>
 		<integer>-24</integer>
+	</dict>
+	<key>ge-cy</key>
+	<dict>
+		<key>de-cy</key>
+		<integer>-30</integer>
+		<key>el-cy</key>
+		<integer>-30</integer>
 	</dict>
 	<key>germandbls</key>
 	<dict>

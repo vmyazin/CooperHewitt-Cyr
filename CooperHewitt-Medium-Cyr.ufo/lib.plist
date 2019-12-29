@@ -4,43 +4,31 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/ef-cy</string>
-		<string>/ve-cy</string>
-		<string>/ii-cy</string>
-		<string>¨/io-cy</string>
-		<string>/io-cy</string>
-		<string>/Gheupturn-cy</string>
-		<string>/Ef-cy</string>
-		<string>/ge-cy</string>
-		<string>/gheupturn-cy</string>
-		<string>/shcha-cy</string>
-		<string>/ereversed-cy</string>
-		<string>/e-cy</string>
-		<string>/Ge-cy</string>
-		<string>/El-cy</string>
-		<string>j</string>
-		<string>A</string>
-		<string>/el-cy</string>
-		<string>/Pe-cy</string>
-		<string>/Sha-cy</string>
-		<string>/Shcha-cy</string>
-		<string>/Iigrave-cy</string>
-		<string>/Lacute</string>
-		<string>/Yeru-cy</string>
-		<string>/De-cy</string>
-		<string>/Be-cy</string>
-		<string>`/ii-cy.loclBGR/iigrave-cy.loclBGR</string>
-		<string>/Zhe-cy</string>
-		<string>/ze-cy</string>
-		<string>/Ze-cy</string>
-		<string>/a-cy</string>
+		<string>/el-cy/er-cy</string>
+		<string>/em-cy</string>
+		<string>k</string>
+		<string>/zhe-cy</string>
+		<string>/ge-cy/el-cy/ge-cy/de-cy/ie-cy/zhe-cy/ie-cy  /ve-cy/es-cy</string>
 		<string>/de-cy</string>
-		<string>/softsign-cy</string>
-		<string>/hardsign-cy</string>
-		<string>/yeru-cy</string>
-		<string>/Ve-cy</string>
-		<string>/iishort-cy</string>
-		<string>/ia-cy</string>
+		<string>/el-cy</string>
+		<string>/softsign-cy/te-cy/hardsign-cy/te-cy</string>
+		<string>/ge-cy/el-cy</string>
+		<string>/Softsign-cy/Te-cy/Hardsign-cy/Te-cy</string>
+		<string>/ge-cy</string>
+		<string>/gheupturn-cy/el-cy</string>
+		<string>/gheupturn-cy/el-cy</string>
+		<string>/Ge-cy/el-cy</string>
+		<string>/Ge-cy/pe-cy</string>
+		<string>/El-cy</string>
+		<string>/Ge-cy/De-cy</string>
+		<string>/Te-cy/El-cy</string>
+		<string>/Te-cy</string>
+		<string>/Softsign-cy/Te-cy</string>
+		<string>/Er-cy/El-cy</string>
+		<string>/U-cy/el-cy</string>
+		<string>/u-cy</string>
+		<string>/Ge-cy</string>
+		<string>/Gheupturn-cy</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
