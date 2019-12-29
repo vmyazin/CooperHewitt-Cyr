@@ -64,6 +64,8 @@
 	<string>D_e-cy.loclB_G_R_.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
+	<key>E-cy</key>
+	<string>E_-cy.glif</string>
 	<key>Eacute</key>
 	<string>E_acute.glif</string>
 	<key>Ebreve</key>
@@ -124,6 +126,8 @@
 	<string>G_dotaccent.glif</string>
 	<key>Ge-cy</key>
 	<string>G_e-cy.glif</string>
+	<key>Gheupturn-cy</key>
+	<string>G_heupturn-cy.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
 	<key>Ha-cy</key>
@@ -136,6 +140,8 @@
 	<string>H_circumflex.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
+	<key>I-cy</key>
+	<string>I_-cy.glif</string>
 	<key>IJ</key>
 	<string>I_J_.glif</string>
 	<key>Ia-cy</key>
@@ -336,6 +342,8 @@
 	<string>Y_eru-cy.glif</string>
 	<key>Ygrave</key>
 	<string>Y_grave.glif</string>
+	<key>Yi-cy</key>
+	<string>Y_i-cy.glif</string>
 	<key>Ymacron</key>
 	<string>Y_macron.glif</string>
 	<key>Yusbig-cy</key>
@@ -390,6 +398,8 @@
 	<string>anglebracketright.cap.glif</string>
 	<key>aogonek</key>
 	<string>aogonek.glif</string>
+	<key>apostrophemod</key>
+	<string>apostrophemod.glif</string>
 	<key>approxequal</key>
 	<string>approxequal.glif</string>
 	<key>aring</key>
@@ -558,6 +568,8 @@
 	<string>doublegrave.cap.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>e-cy</key>
+	<string>e-cy.glif</string>
 	<key>eacute</key>
 	<string>eacute.glif</string>
 	<key>ebreve</key>
@@ -674,6 +686,8 @@
 	<string>ge-cy.loclB_G_R_.glif</string>
 	<key>germandbls</key>
 	<string>germandbls.glif</string>
+	<key>gheupturn-cy</key>
+	<string>gheupturn-cy.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
 	<key>grave.cap</key>
@@ -730,6 +744,8 @@
 	<string>hyphen.cap.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
+	<key>i-cy</key>
+	<string>i-cy.glif</string>
 	<key>ia-cy</key>
 	<string>ia-cy.glif</string>
 	<key>iacute</key>
@@ -1024,6 +1040,8 @@
 	<string>sevensixteenths.glif</string>
 	<key>sha-cy</key>
 	<string>sha-cy.glif</string>
+	<key>sha-cy.001</key>
+	<string>sha-cy.001.glif</string>
 	<key>sha-cy.loclBGR</key>
 	<string>sha-cy.loclB_G_R_.glif</string>
 	<key>shcha-cy</key>
@@ -1296,6 +1314,8 @@
 	<string>yeru-cy.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
+	<key>yi-cy</key>
+	<string>yi-cy.glif</string>
 	<key>ymacron</key>
 	<string>ymacron.glif</string>
 	<key>yusbig-cy</key>

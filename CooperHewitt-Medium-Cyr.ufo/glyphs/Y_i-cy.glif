@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yi-cy" format="1">
+  <advance width="376"/>
+  <unicode hex="0407"/>
+  <outline>
+    <contour>
+      <point x="243" y="780" type="line"/>
+      <point x="139" y="780" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+    </contour>
+    <component base="dieresis.cap" xOffset="-62"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-29 04:06:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

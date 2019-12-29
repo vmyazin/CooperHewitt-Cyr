@@ -4,39 +4,16 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>v=/ge-cy</string>
-		<string>/De-cy/a-cy/en-cy/ka-cy/a-cy/a-cy</string>
-		<string>/iegrave-cy</string>
-		<string>/Ve-cy  «/El-cy/ie-cy/ve-cy/o-cy » </string>
-		<string>/er-cy</string>
-		<string>/pe-cy</string>
-		<string>/Ie-cy</string>
 		<string>/ef-cy</string>
-		<string>/El-cy/Pe-cy</string>
-		<string>/Hardsign-cy</string>
-		<string>/pe-cy.001</string>
 		<string>/ve-cy</string>
-		<string>/En-cy/ii-cy/ge-cy/ie-cy/er-cy/ii-cy/ia-cy 
-/ereversed-cy/te-cy/o-cy  /ka-cy/er-cy/u-cy/te-cy/o-cy</string>
-		<string>/ii-cy/em-cy</string>
-		<string>/El-cy</string>
-		<string>/ia-cy/ve-cy</string>
-		<string>/Ze-cy 3</string>
-		<string>/softsign-cy</string>
-		<string>/yeru-cy</string>
-		<string>/ia-cy</string>
 		<string>/ii-cy</string>
-		<string>/iishort-cy</string>
 		<string>¨/io-cy</string>
 		<string>/io-cy</string>
-		<string>/ereversed-cy</string>
-		<string>/o-cy</string>
-		<string>/be-cy/u-cy/be-cy/a-cy  /es-cy/ie-cy/ka-cy/ii-cy  </string>
-		<string>/be-cy</string>
-		<string>/zhe-cy</string>
-		<string>/ha-cy</string>
-		<string>/De-cy</string>
-		<string>/de-cy</string>
+		<string>/Gheupturn-cy</string>
+		<string>/Ef-cy</string>
+		<string>/ge-cy</string>
+		<string>/gheupturn-cy</string>
+		<string>/shcha-cy</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -1180,6 +1157,7 @@
 		<string>Be-cy</string>
 		<string>Ve-cy</string>
 		<string>Ge-cy</string>
+		<string>Gheupturn-cy</string>
 		<string>De-cy</string>
 		<string>Ie-cy</string>
 		<string>Iegrave-cy</string>
@@ -1208,7 +1186,10 @@
 		<string>Softsign-cy</string>
 		<string>Hardsign-cy</string>
 		<string>Yeru-cy</string>
+		<string>E-cy</string>
 		<string>Ereversed-cy</string>
+		<string>I-cy</string>
+		<string>Yi-cy</string>
 		<string>Iu-cy</string>
 		<string>Ia-cy</string>
 		<string>Yat-cy</string>
@@ -1220,6 +1201,7 @@
 		<string>be-cy</string>
 		<string>ve-cy</string>
 		<string>ge-cy</string>
+		<string>gheupturn-cy</string>
 		<string>de-cy</string>
 		<string>ie-cy</string>
 		<string>iegrave-cy</string>
@@ -1247,12 +1229,16 @@
 		<string>softsign-cy</string>
 		<string>hardsign-cy</string>
 		<string>yeru-cy</string>
+		<string>e-cy</string>
 		<string>ereversed-cy</string>
+		<string>i-cy</string>
+		<string>yi-cy</string>
 		<string>iu-cy</string>
 		<string>ia-cy</string>
 		<string>yat-cy</string>
 		<string>yusbig-cy</string>
 		<string>pe-cy.001</string>
+		<string>sha-cy.001</string>
 		<string>ve-cy.loclBGR</string>
 		<string>ge-cy.loclBGR</string>
 		<string>de-cy.loclBGR</string>
@@ -1271,6 +1257,7 @@
 		<string>softsign-cy.loclBGR</string>
 		<string>hardsign-cy.loclBGR</string>
 		<string>iu-cy.loclBGR</string>
+		<string>apostrophemod</string>
 		<string>gravecomb</string>
 		<string>acutecomb</string>
 		<string>brevecomb-cy</string>

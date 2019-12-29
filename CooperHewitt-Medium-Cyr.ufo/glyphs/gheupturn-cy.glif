@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gheupturn-cy" format="1">
+  <advance width="490"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="72" y="530" type="line"/>
+      <point x="72" y="2" type="line"/>
+      <point x="171" y="2" type="line"/>
+      <point x="171" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="530" type="line"/>
+      <point x="127" y="438" type="line"/>
+      <point x="430" y="438" type="line"/>
+      <point x="430" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="618" type="line"/>
+      <point x="336" y="438" type="line"/>
+      <point x="430" y="438" type="line"/>
+      <point x="430" y="618" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-29 04:09:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

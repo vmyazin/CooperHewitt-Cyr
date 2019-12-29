@@ -50,4 +50,10 @@
       <point x="307" y="72"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-29 03:43:57 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -20,22 +20,22 @@
       <point x="842" y="203"/>
     </contour>
     <contour>
-      <point x="747" y="387" type="line" smooth="yes"/>
-      <point x="747" y="267"/>
-      <point x="658" y="219"/>
-      <point x="460" y="219" type="curve" smooth="yes"/>
-      <point x="420" y="219" type="line" smooth="yes"/>
-      <point x="222" y="219"/>
-      <point x="133" y="267"/>
-      <point x="133" y="387" type="curve" smooth="yes"/>
-      <point x="133" y="394" type="line" smooth="yes"/>
-      <point x="133" y="514"/>
-      <point x="222" y="562"/>
-      <point x="420" y="562" type="curve" smooth="yes"/>
-      <point x="460" y="562" type="line" smooth="yes"/>
-      <point x="658" y="562"/>
-      <point x="747" y="514"/>
-      <point x="747" y="394" type="curve" smooth="yes"/>
+      <point x="737" y="387" type="line" smooth="yes"/>
+      <point x="737" y="267"/>
+      <point x="658" y="209"/>
+      <point x="460" y="209" type="curve" smooth="yes"/>
+      <point x="420" y="209" type="line" smooth="yes"/>
+      <point x="222" y="209"/>
+      <point x="143" y="267"/>
+      <point x="143" y="387" type="curve" smooth="yes"/>
+      <point x="143" y="394" type="line" smooth="yes"/>
+      <point x="143" y="514"/>
+      <point x="222" y="572"/>
+      <point x="420" y="572" type="curve" smooth="yes"/>
+      <point x="460" y="572" type="line" smooth="yes"/>
+      <point x="658" y="572"/>
+      <point x="737" y="514"/>
+      <point x="737" y="394" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="490" y="780" type="line"/>
@@ -47,7 +47,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-12-28 05:54:37 +0000</string>
+      <string>2019-12-29 04:07:59 +0000</string>
     </dict>
   </lib>
 </glyph>
