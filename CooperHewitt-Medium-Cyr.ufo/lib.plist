@@ -30,6 +30,17 @@
 		<string>/De-cy</string>
 		<string>/Be-cy</string>
 		<string>`/ii-cy.loclBGR/iigrave-cy.loclBGR</string>
+		<string>/Zhe-cy</string>
+		<string>/ze-cy</string>
+		<string>/Ze-cy</string>
+		<string>/a-cy</string>
+		<string>/de-cy</string>
+		<string>/softsign-cy</string>
+		<string>/hardsign-cy</string>
+		<string>/yeru-cy</string>
+		<string>/Ve-cy</string>
+		<string>/iishort-cy</string>
+		<string>/ia-cy</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

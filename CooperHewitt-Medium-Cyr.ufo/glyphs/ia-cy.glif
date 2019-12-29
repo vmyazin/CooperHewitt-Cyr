@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ia-cy" format="1">
-  <advance width="600"/>
+  <advance width="499"/>
   <unicode hex="044F"/>
   <outline>
     <contour>
-      <point x="488" y="1" type="line"/>
-      <point x="488" y="530" type="line"/>
-      <point x="391" y="530" type="line"/>
-      <point x="391" y="1" type="line"/>
+      <point x="438" y="1" type="line"/>
+      <point x="438" y="530" type="line"/>
+      <point x="341" y="530" type="line"/>
+      <point x="341" y="1" type="line"/>
     </contour>
     <contour>
       <point x="282" y="255" type="line"/>
@@ -56,7 +56,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-12-28 20:13:59 +0000</string>
+      <string>2019-12-29 11:21:35 +0000</string>
     </dict>
   </lib>
 </glyph>

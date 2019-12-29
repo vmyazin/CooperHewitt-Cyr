@@ -12,8 +12,10 @@
 	<integer>-250</integer>
 	<key>familyName</key>
 	<string>Cooper Hewitt</string>
+	<key>note</key>
+	<string>Cyrillic support by Vasily Myazin and Dmitri Zdorov (2019)</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/06/06 20:02:51</string>
+	<string>2019/12/29 14:00:38</string>
 	<key>openTypeHeadFlags</key>
 	<array>
 		<integer>0</integer>
@@ -166,7 +168,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>530</integer>
 </dict>
