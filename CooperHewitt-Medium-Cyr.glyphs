@@ -754,7 +754,7 @@ date = "2014-06-06 16:02:51 +0000";
 designer = "Village Type and Design LLC";
 designerURL = "http://vllg.com/";
 disablesNiceNames = 1;
-familyName = "Cooper Hewitt";
+familyName = "Cooper Hewitt Cyr";
 featurePrefixes = (
 {
 code = "include(-CooperHewitt-GSUB-features-20140605.fea);";

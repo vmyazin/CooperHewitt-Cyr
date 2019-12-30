@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
-	<string>Cooper Hewitt</string>
+	<string>Cooper Hewitt Cyr</string>
 	<key>note</key>
 	<string>Cyrillic support by Vasily Myazin and Dmitri Zdorov (2019)</string>
 	<key>openTypeHeadCreated</key>
@@ -48,7 +48,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://cooperhewitt.org/</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Cooper Hewitt</string>
+	<string>Cooper Hewitt Cyr</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Medium</string>
 	<key>openTypeNameUniqueID</key>
